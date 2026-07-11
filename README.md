@@ -4,7 +4,7 @@ Unity: https://github.com/EloiStree/2022_11_22_upm_zhu_li_static_singleton
 
 # Zhu Li Static Singleton
 
-Simply send a GUID and don't worry about the rest for now.   
+Simply send a GUID or a variable don't worry about the rest for now.   
 We'll implement the remaining functionality later.   
 
 <a href="https://avatar.fandom.com/fr/wiki/Zhu_Li_Moon">
