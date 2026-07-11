@@ -2,6 +2,8 @@
 Godot: https://github.com/EloiStree/2022_11_22_gdp_zhu_li_static_singleton     
 Unity: https://github.com/EloiStree/2022_11_22_upm_zhu_li_static_singleton    
 
+Mainly used in: [CodeLab](https://github.com/EloiStree?tab=repositories&q=codelab&type=&language=&sort=) to load scene and prefab.
+
 # Zhu Li Static Singleton
 
 Simply send a GUID or a variable don't worry about the rest for now.   
